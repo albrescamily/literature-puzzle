@@ -3,6 +3,7 @@ name = "literature-puzzle"
 version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
+    "langextract>=1.7.1",
     "networkx>=3.7",
     "pypdf==6.10.2",
     "pyvis>=0.3.2",
